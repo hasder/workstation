@@ -1,0 +1,1 @@
+This project is a workstation application which runs in the edge of Industry 4.0 manufacturing systems.
